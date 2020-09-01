@@ -1,2 +1,2 @@
 # Introduction
-Some note in the study of paddle.All are welcomed to dicuss with me!
+Some note in the study of paddle.All are welcomed to discuss with me!
